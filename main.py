@@ -1,8 +1,9 @@
 # Author: Shang Yuan Lim szl6038@psu.edu
-# Collaborator: 
-# Collaborator:
+# Collaborator: Shiquan Zhang spz5202@psu.edu
+# Collaborator: Christian Davis ckd5367@psu.edu
+# Collaborator: Mitchell Feyl mmf5871@psu.edu 
 # Section: 010R
-# Breakout: 
+# Breakout: 14
 
 def sum_n(n):
   if n<=1:
